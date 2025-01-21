@@ -1,3 +1,5 @@
 *.java linguist-language=Java
 *.sql linguist-language=SQL
 *.xml linguist-language=XML
+*.java linguist-detectable=true
+
